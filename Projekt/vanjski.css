@@ -1,0 +1,110 @@
+
+a{
+    text-decoration: none;
+    font-size: larger;
+    color:  white;
+   padding: 0 30px;
+}
+
+a:hover{
+    background-color: blue;
+    color: #6C757D;
+}
+
+.boja{
+    background-color: gray;
+   
+}
+
+
+
+header{
+
+    height: 40px;
+    background-color: gray;
+
+}
+
+
+.slika{
+ background-color: blue;
+}
+
+pre{
+    color: white;
+    text-align: center;
+   
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.pomak{
+
+   border-radius: 45px;
+   border: solid;
+   border-color: #FED136;
+    margin-left: 10%;
+
+}
+.pomak2{
+
+
+     margin-left: 10%;
+     font-size: medium;
+ 
+ }
+
+h3{
+    margin-left: 10%;
+}
+
+.boja2{
+
+    background-color: #F8F9FA;
+
+}
+
+p{
+    text-align: justify;
+    color: black;
+}
+
+img{
+    margin-bottom: 25px;
+}
+
+nav {
+    display: inline-block;
+    list-style-type: none;
+}
+
+.container{
+
+text-align: center;
+color: white;
+}
+
+.bojica{
+    background-image:url('pattern.jpg') ;
+}
+
+ul.no-bullets {
+    
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+   
+  }
+
+.tekst{
+font-size: medium;
+}
+
+ 
